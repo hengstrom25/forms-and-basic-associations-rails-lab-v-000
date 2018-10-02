@@ -26,5 +26,6 @@ class Song < ActiveRecord::Base
      end
    end
    
-  def  
+  def note_contents
+    
 end
